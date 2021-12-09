@@ -1,0 +1,25 @@
+<?php
+
+return[
+    'mail_username' => "Mail's company Username",
+    'mail_password' => "Mail's company Password",
+    'name' => 'Page Name',
+    'logo' => 'Logo',
+    'favicon' => 'Favicon',
+    'image' => 'Image',
+    'name_input' => 'Input Setting name',
+    'general_setting' => 'General Settings',
+    'general_setting_header' => 'general settings',
+    'mail_manager' => "Mail's manager username",
+    'favicon_input' => 'Choose favicon...',
+    'logo_input' => 'Choose logo...',
+    'mail_manager_input' => 'Input mail manager...',
+    'mail_username_input' => 'Input Mail Username...',
+    'mail_password_input' => 'Input Mail Password...',
+    'favicon_promote' => 'This favicon will show in title page and menu.Max upload size allow is 3MB',
+    'logo_promote' => 'This logo will show in menu and this is main logo of page.Max upload size allow is 3MB',
+    'phone_manager' => "Phone's manager",
+    'phone_manager_input' => "Input phone's manager...",
+    'name_manager' => "Name manager",
+    'name_manager_input' => "Input name's manager...",
+];

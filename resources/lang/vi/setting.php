@@ -1,0 +1,25 @@
+<?php
+
+return[
+    'mail_username' => 'Tên tài khoản mail công ty',
+    'mail_password' => 'Mật khẩu mail công ty',
+    'name' => 'Tên trang web',
+    'logo' => 'Logo',
+    'favicon' => 'Favicon',
+    'image' => 'Hình ảnh',
+    'name_input' => 'Nhập tên',
+    'general_setting' => 'Cài đặt chung',
+    'general_setting_header' => 'cài đặt chung',
+    'mail_manager' => 'Tên tài khoản mail người phụ trách',
+    'favicon_input' => 'Thêm favicon trang web...',
+    'logo_input' => 'Thêm logo trang web...',
+    'mail_manager_input' => 'Nhập email người phụ trách...',
+    'mail_username_input' => 'Nhập tên tài khoản mail công ty...',
+    'mail_password_input' => 'Nhập mật khẩu mail công ty...',
+    'favicon_promote' => 'Favicon được hiển thị tại tiêu đề bài viết và trên thanh menu.Kích thước tối đa là 3MB',
+    'logo_promote' => 'Logo sẽ hiển thị trên thanh menu và là logo chính của trang.Kích thước tối đa là 3MB',
+    'phone_manager' => "Số điện thoại người phụ trách",
+    'phone_manager_input' => "Nhập số điện thoại người phụ trách...",
+    'name_manager' => "Tên người phụ trách",
+    'name_manager_input' => "Nhập tên người phụ trách...",
+];

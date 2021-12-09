@@ -1,0 +1,25 @@
+<?php
+
+return[
+    'mail_username' => '会社のメール',
+    'mail_password' => 'ルのパスワード',
+    'name' => 'ページ名',
+    'logo' => 'ロゴ',
+    'image' => '画像',
+    'favicon' => 'ファビコン',
+    'name_input' => '入力設定名',
+    'general_setting' => '一般設定',
+    'general_setting_header' => '一般設定',
+    'mail_manager' => '担当者のメール',
+    'favicon_input' => 'ファビコンを選択してください',
+    'logo_input' => 'ロゴを選択してください',
+    'mail_manager_input' => 'メールのマネージャーのユーザー名を入力してください。',
+    'mail_username_input' => 'メールの会社のユーザー名を入力してください。',
+    'mail_password_input' => 'メールの会社パスワードを入力してください。',
+    'favicon_promote' => 'このファビコンはタイトルページとメニューに表示されます。最大アップロードサイズは3MBです',
+    'logo_promote' => 'このロゴはメニューに表示され、これはページのメインロゴです。最大アップロードサイズは3MBです',
+    'phone_manager' => "担当者の電話番号",
+    'phone_manager_input' => "入力電話のマネージャー。",
+    'name_manager' => "担当者名",
+    'name_manager_input' => "入力名のマネージャー。",
+];

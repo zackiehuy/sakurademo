@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'title' => '題名',
+    'branch' => '勤務地',
+    'company' => '会社',
+    'contacts' => '連絡先',
+    'job_category' => '職種',
+    'end_date' => '終了日',
+    'salary' => '給与',
+    'negotiable'  => '交渉可能',
+    'maximum' => '最大',
+    'minimum' => '最小',
+    'vacancies' => '採用人数',
+    'filter' => '-フィルター採用-',
+    'filter_name' => 'フィルター：',
+    'seen' => '見た',
+    'not_seen' => '見ていない',
+    'application' => 'アプリケーションジョブの成功',
+    'application_fail' => 'アプリケーションジョブが失敗する',
+    'application_fail_message' => '募集は期限切れです',
+    'cv' => '履歴書',
+    'submit_cv' => '履歴書を提出する',
+    'name_input' => '名称を入力してください。',
+    'email_input' => 'メールを入力してください。',
+    'phone_input' => '入力電話...',
+];
